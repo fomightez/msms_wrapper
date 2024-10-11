@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# content for this start file copied from https://github.com/pyvista/pyvista-tutorial/tree/gh-pages/binder
+export PYVISTA_TRAME_SERVER_PROXY_PREFIX="$JUPYTERHUB_SERVICE_PREFIX/proxy/"
+exec "$@"
