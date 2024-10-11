@@ -2,7 +2,9 @@
 ARG BASE_IMAGE_TAG=latest
 FROM ghcr.io/pyvista/pyvista:$BASE_IMAGE_TAG
 
+RUN apt-get install -y curl
+
 COPY . ${HOME}
 WORKDIR ${HOME}
-RUN apt-get install -y curl
+
 RUN pip install -r binder_requirements.txt
