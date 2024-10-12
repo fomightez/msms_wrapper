@@ -7,7 +7,7 @@ Click any '`launch`' badge on this page to run msms_wrappter code inside your br
 On the remote machine, you'll need to install msms if you meet the license requirements.
 
 JupyterLab:    
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/msms_wrapper/binderized_no_PyVista?labpath=examples.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/msms_wrapper/binderized_no_PyVista_plusNbgitpuller?labpath=examples.ipynb)
 
 
 
