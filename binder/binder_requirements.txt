@@ -1,7 +1,2 @@
 rdkit
 pytest
-tqdm
-hypothesis
-rtree
-lxml
-pyct
