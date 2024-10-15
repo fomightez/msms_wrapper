@@ -14,6 +14,7 @@ JupyterLab:
 The source of the Dockerfile to get PyVista to work here (at this time) results in sessions where you cannot save the notebook you edit (?!?!), and that persists here at this time. You can see it is from the original source by [by spawneing a session from that source by clicking here](https://mybinder.org/v2/gh/pyvista/pyvista-examples/master), or clicking any of the launch binder badges [here](https://github.com/pyvista/pyvista#highlights) or [here](https://github.com/pyvista/pyvista-tutorial).
 **Use sessions launched from the other branches without PyVista working in order to save!** If you must use the session with PyVista working, copy the code in and out to save it elsewhere.
 
+Possible fix?: I note the launch from [here](https://github.com/pyvista/pyvista#highlights) that relates to [the repo here](https://github.com/pyvista/pyvista-examples) uses a `Dockerfile` yet results in sessions with PyVista working where notebook saves do indeed work still, and so I ay be able to fix things possible even though my cursory analysis sees no difference.
 
 ---------------
 Attribution
