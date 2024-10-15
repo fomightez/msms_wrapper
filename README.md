@@ -3,7 +3,7 @@ You are probably looking for https://github.com/rinikerlab/msms_wrapper
 # msms_wrapper binderized
 
 *tl;dr:*  
-Click any '`launch`' badge on this page to run msms_wrappter code inside your browser without installing anything on your own machine. 
+Click any '`launch`' badge on this page to run msms_wrapper code inside your browser without installing anything on your own machine. 
 On the remote machine, you'll need to install msms if you meet the license requirements.
 
 JupyterLab:    
