@@ -9,6 +9,10 @@ On the remote machine, you'll need to install msms if you meet the license requi
 JupyterLab:    
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/msms_wrapper/binderized?labpath=examples.ipynb)
 
+#### ISSUES WITH THE LAUNCHED SESSION:
+
+The source of the Dockerfile to get PyVista to work here (at this time) results in sessions where you cannot save the notebook you edit (?!?!), and that persists here at this time. You can see it is from the original source by [by spawneing a session from that source by clicking here](https://mybinder.org/v2/gh/pyvista/pyvista-examples/master), or clicking any of the launch binder badges [here](https://github.com/pyvista#highlights) or [here](https://github.com/pyvista/pyvista-tutorial).
+**Use sessions launched from the other branches without PyVista working in order to save!** If you must use the session with PyVista working, copy the code in and out to save it elsewhere.
 
 
 ---------------
